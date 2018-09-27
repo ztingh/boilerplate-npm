@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "boilerplate-npm",
   "version": "1.0.0",
   "description": "A boilerplate for the freeCodeCamp curriculum.",
@@ -16,4 +17,7 @@
     "url": "https://github.com/ztingh/boilerplate-npm/issues"
   },
   "homepage": "https://github.com/ztingh/boilerplate-npm#readme"
+=======
+  "author": "Jason Chang"
+>>>>>>> 6931513674393c31d3d34447ef5950dd5a20223f
 }
